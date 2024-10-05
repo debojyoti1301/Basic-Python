@@ -1,3 +1,5 @@
+
+#Python code for insert element  in a Binary Tree 
 class Tree:
     def __init__(self,val=None):
       
